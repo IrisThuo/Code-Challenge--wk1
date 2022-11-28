@@ -15,4 +15,4 @@ the user enters a student marks and the input should be between 0 and 100.Then o
 
 A > 79, B - 60 to 79, C - 59 to 49, D - 40 to 49, E - less 40.
 
-# Author of this projects is Iris Thuo.
+# Author of these projects is Iris Thuo.
