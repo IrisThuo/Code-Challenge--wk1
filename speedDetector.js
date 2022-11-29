@@ -1,7 +1,7 @@
 //Speed Detector
 //Initialise Car speed Variable and Points
-
-let carSpeed=80;
+const prompt = require("prompt-sync")();
+let carSpeed=prompt('enter speed');
 
 let points=((carSpeed-70)/5);
 

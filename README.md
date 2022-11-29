@@ -15,4 +15,10 @@ the user enters a student marks and the input should be between 0 and 100.Then o
 
 A > 79, B - 60 to 79, C - 59 to 49, D - 40 to 49, E - less 40.
 
+### to run on terminal
+Step 1: npm init
+Step 2: npm install prompt-sync
+Step 3: Open the js file (name.js) in which you want to use prompt and import the prompt-sync as given below. 
+      <const prompt = require("prompt-sync")();>
+
 # Author of these projects is Iris Thuo.

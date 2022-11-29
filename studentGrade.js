@@ -1,7 +1,7 @@
 //Student Grade Generator
 //prompt user to enter marks
-
-let studentMarks = prompt('Please Enter Student Marks', studentMarks);
+const prompt = require("prompt-sync")();
+let studentMarks = prompt('Please Enter Student Marks');
 
 //assign different marks to different grades using if..else if..esle
 //using logical operators to assign range
